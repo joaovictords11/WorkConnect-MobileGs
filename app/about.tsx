@@ -10,9 +10,7 @@ export default function About() {
 
       <View style={styles.card}>
         <Text style={styles.label}>Hash do Commit (Referência):</Text>
-        <Text style={styles.hash}>
-          88a74dfce61c7a5df8c5a721676fef9df4566381
-        </Text>
+        <Text style={styles.hash}>a086751</Text>
       </View>
 
       <Text style={styles.footer}>
