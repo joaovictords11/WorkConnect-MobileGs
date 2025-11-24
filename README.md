@@ -25,7 +25,7 @@ A solução mobile integra-se perfeitamente ao ecossistema Work Connect, consumi
 
 Confira o vídeo de demonstração com todas as funcionalidades do aplicativo rodando:
 
-[**🔗 CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE**](INSERIR_SEU_LINK_AQUI)
+[**🔗 CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE**](https://www.youtube.com/shorts/AaApM39emV4)
 
 ---
 
@@ -75,8 +75,7 @@ Confira o vídeo de demonstração com todas as funcionalidades do aplicativo ro
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/SEU-USUARIO/work-connect-mobile.git](https://github.com/SEU-USUARIO/work-connect-mobile.git)
-    cd work-connect-mobile
+    git clone https://github.com/joaovictords11/WorkConnect-MobileGs
     ```
 
 2.  **Instale as dependências:**
