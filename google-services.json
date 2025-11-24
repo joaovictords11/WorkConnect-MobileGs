@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493696890898",
+    "project_id": "work-connect-mobile",
+    "storage_bucket": "work-connect-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493696890898:android:e2bb0fe7290b2f9aa280cb",
+        "android_client_info": {
+          "package_name": "com.joaovictords.workconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdn3a0CnVRr9C-rlGRXJ_L3229vpLfRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
